@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
+EmailApp allows a user to add a new email address or remove email address.
+
+App Requirement:
+
+The email address are validated. If the email is not valid, an error is displayed to the user.
+After successful validation, the new address get added.
+Bootstrap 4 is used to style the form.  . 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
